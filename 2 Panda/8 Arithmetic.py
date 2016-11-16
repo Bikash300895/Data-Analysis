@@ -30,4 +30,3 @@ print(frame-series)
 series2 = Series(range(3), index=['b', 'e', 'f'])
 print(frame + series2)
 
-
