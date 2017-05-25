@@ -28,5 +28,9 @@ print('arrange',d)
 e = np.arange(0, 2, .3)
 print(e)
 
-
+# line space
+print('linspace', np.linspace(0, 2, 9))
+from numpy import pi
+x = np.linspace(0, 2*pi, 10)
+print(x)
 
